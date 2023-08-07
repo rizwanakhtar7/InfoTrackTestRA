@@ -1,0 +1,87 @@
+.navbar {
+    margin-bottom: 0px;
+    padding: 10px 7px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    border-radius: 20px;
+    margin: 0 auto;
+    margin-top: 2em;
+    max-width: 1100px; /* Setting maximum width */
+    background-color: white;
+}
+
+.navbar-nav > li > a {
+    text-transform: capitalize;
+    color: #023E5C;
+    text-align: center;
+    font-weight: 700;
+}
+
+.navbar-nav > li > a:hover {
+    color: #0696B7;
+}
+.nav-item {
+    margin-right: 1.5em;
+}
+
+.navbar img {
+    width: 40%;
+    height: 50%;
+}
+
+.main-section {
+    padding: 1em !important;
+    margin-top: 10em !important;
+}
+
+@media screen and (max-width: 900px) {
+    .navbar {
+        border-radius: 0px;
+        margin: 0em;
+    }
+
+    .navbar img {
+        width: 30%; /* Make the logo full width on mobile */
+        height: auto; /* Allow the logo to adjust its height accordingly */
+    }
+
+    .navbar-nav {
+        display: none; 
+        flex-direction: column; 
+        align-items: center; 
+        position: absolute;
+        top: 110px; 
+        background-color: #fff; 
+        width: 100%; 
+        padding: 1em;
+    }
+
+    .navbar-item {
+        display: flex;
+        padding: 1em;
+    }
+
+    .navbar-item > a {
+        padding: 2em;
+        margin-bottom: 1em;
+    }
+    .navbar-toggler {
+        display: block; 
+
+    }
+
+    .navbar-header {
+        display:contents;
+    }
+
+    .navbar.active .navbar-nav {
+        display: flex; 
+    }
+
+    .navbar-toggler.collapsed .navbar-toggler-icon {
+        background-color: white;
+        color: #023E5C !important;
+        border-color: none !important;
+    }
+
+    
+}

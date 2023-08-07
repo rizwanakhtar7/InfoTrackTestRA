@@ -1,0 +1,7 @@
+C:\Users\rizwa\source\repos\InfoTrackTechTest\InfoTrackTechTest\obj\Release\net6.0\PubTmp\Out\InfoTrackTechTest.exe
+C:\Users\rizwa\source\repos\InfoTrackTechTest\InfoTrackTechTest\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\rizwa\source\repos\InfoTrackTechTest\InfoTrackTechTest\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\rizwa\source\repos\InfoTrackTechTest\InfoTrackTechTest\obj\Release\net6.0\PubTmp\Out\InfoTrackTechTest.dll
+C:\Users\rizwa\source\repos\InfoTrackTechTest\InfoTrackTechTest\obj\Release\net6.0\PubTmp\Out\InfoTrackTechTest.deps.json
+C:\Users\rizwa\source\repos\InfoTrackTechTest\InfoTrackTechTest\obj\Release\net6.0\PubTmp\Out\InfoTrackTechTest.runtimeconfig.json
+C:\Users\rizwa\source\repos\InfoTrackTechTest\InfoTrackTechTest\obj\Release\net6.0\PubTmp\Out\InfoTrackTechTest.pdb
